@@ -25,7 +25,7 @@ do
     
 	### read names of subjects in task folder
 	cd $path/${folders[i]}/archives/
-    declare -a subjects=(`ls *.zip | cut -b 1-6`)
+    declare -a subjects=(`ls *.zip | cut -b -6`)
     
 	### parse through subjects
     for subject in ${subjects[@]}
