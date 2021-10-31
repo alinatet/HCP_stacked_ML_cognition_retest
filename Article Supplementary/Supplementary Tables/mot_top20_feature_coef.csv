@@ -1,0 +1,21 @@
+Glasser ROI,Brain Region,Network,x-MNI,y-MNI,z-MNI,Mean Coeff,σ Coeff
+R_PEF,Premotor,Cingulo-Opercular,45,2,38,0.26,0.14
+R_FEF,Premotor,Cingulo-Opercular,44,-3,51,0.2,0.15
+L_FEF,Premotor,Cingulo-Opercular,-43,-7,50,0.18,0.14
+L_SCEF,Paracentral_Lobular_and_Mid_Cingulate,Cingulo-Opercular,-7,6,56,0.18,0.1
+L_46,Dorsolateral_Prefrontal,Cingulo-Opercular,-37,38,33,-0.19,0.08
+R_PFcm,Early_Auditory,Cingulo-Opercular,48,-28,22,-0.26,0.17
+R_p24,Anterior_Cingulate_and_Medial_Prefrontal,Cingulo-Opercular,4,35,17,-0.28,0.18
+L_SFL,Dorsolateral_Prefrontal,Language,-8,17,63,0.22,0.13
+L_55b,Premotor,Language,-49,-1,50,0.19,0.13
+L_IFSp,Inferior_Frontal,Language,-48,24,20,0.18,0.15
+L_TPOJ1,Temporo-Parieto-Occipital_Junction,Language,-54,-46,9,-0.18,0.11
+R_V4t,MT+_Complex_and_Neighboring_Visual_Areas,Visual2,49,-72,-2,0.21,0.1
+L_FFC,Ventral_Stream_Visual,Visual2,-44,-56,-19,-0.19,0.06
+L_VMV1,Ventral_Stream_Visual,Visual2,-20,-52,-8,-0.26,0.08
+R_STSda,Auditory_Association,Default,51,-1,-17,-0.18,0.11
+R_31pv,Posterior_Cingulate,Default,9,-43,33,-0.2,0.13
+R_31pd,Posterior_Cingulate,Default,13,-51,35,-0.24,0.12
+R_IFSp,Inferior_Frontal,Frontoparietal,45,30,17,0.26,0.12
+R_8BM,Anterior_Cingulate_and_Medial_Prefrontal,Frontoparietal,4,31,46,0.23,0.1
+L_PCV,Posterior_Cingulate,Posterior_Multimodal,-6,-50,48,-0.19,0.1
