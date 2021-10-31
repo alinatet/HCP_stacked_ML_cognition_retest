@@ -1,0 +1,21 @@
+Glasser ROI,Brain Region,Network,x-MNI,y-MNI,z-MNI,Mean Coeff,σ Coeff
+R_d23ab,Posterior_Cingulate,Default,3,-41,33,0.27,0.22
+L_PreS,Medial_Temporal,Default,-20,-31,-11,0.25,0.13
+L_9p,Dorsolateral_Prefrontal,Default,-19,47,38,0.23,0.22
+R_PGi,Inferior_Parietal,Default,52,-60,30,0.2,0.07
+R_8BL,Dorsolateral_Prefrontal,Default,11,43,48,0.17,0.12
+L_PHA2,Medial_Temporal,Default,-31,-36,-14,-0.19,0.22
+L_V2,Early_Visual,Visual2,-12,-82,2,0.23,0.06
+R_V6,Dorsal_Stream_Visual,Visual2,18,-77,31,0.19,0.11
+R_V2,Early_Visual,Visual2,13,-78,4,0.18,0.1
+R_p24,Anterior_Cingulate_and_Medial_Prefrontal,Cingulo-Opercular,4,35,17,-0.18,0.08
+L_23c,Paracentral_Lobular_and_Mid_Cingulate,Cingulo-Opercular,-13,-30,42,-0.19,0.12
+R_p24pr,Anterior_Cingulate_and_Medial_Prefrontal,Cingulo-Opercular,4,-4,41,-0.21,0.08
+R_V1,Primary_Visual,Visual1,12,-81,2,0.32,0.15
+L_V1,Primary_Visual,Visual1,-10,-85,0,0.31,0.18
+R_POS2,Posterior_Cingulate,Frontoparietal,9,-70,37,0.23,0.07
+L_POS2,Posterior_Cingulate,Frontoparietal,-9,-73,37,0.22,0.12
+R_STV,Temporo-Parieto-Occipital_Junction,Posterior_Multimodal,59,-44,20,0.2,0.12
+R_Pir,Insular_and_Frontal_Opercular,Orbito-Affective,32,7,-19,0.19,0.13
+R_TPOJ1,Temporo-Parieto-Occipital_Junction,Language,54,-44,11,0.3,0.17
+L_PEF,Premotor,Dorsal_Attention,-47,0,41,-0.18,0.12

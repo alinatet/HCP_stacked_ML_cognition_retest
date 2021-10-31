@@ -1,0 +1,21 @@
+,Network 1,Network 2,Mean Coeff,σ Coeff
+R_PBelt-L_10pp,Auditory,Default,0.15,0.19
+R_TE2a-L_PI,Default,Cingulo-Opercular,0.15,0.13
+L_31pv-L_PGi,Default,Default,0.12,0.1
+L_23d-L_11l,Default,Frontoparietal,-0.12,0.16
+R_TE2a-R_TE1m,Default,Frontoparietal,-0.12,0.26
+R_STSvp-R_TPOJ3,Default,Posterior_Multimodal,0.12,0.12
+L_10pp-DIENCEPHALON_VENTRAL_RIGHT,Default,subcortex,0.17,0.14
+R_6a-L_pOFC,Dorsal_Attention,Orbito-Affective,0.2,0.16
+R_13l-L_5mv,Frontoparietal,Cingulo-Opercular,-0.13,0.16
+L_11l-L_31a,Frontoparietal,Default,-0.17,0.22
+R_a10p-L_10pp,Frontoparietal,Default,0.15,0.17
+R_13l-R_s32,Frontoparietal,Default,0.12,0.16
+L_a10p-L_13l,Frontoparietal,Frontoparietal,0.13,0.14
+L_a10p-L_Pir,Frontoparietal,Orbito-Affective,-0.12,0.12
+L_AVI-PUTAMEN_LEFT,Frontoparietal,subcortex,-0.18,0.17
+R_TPOJ1-L_10pp,Language,Default,0.14,0.13
+L_44-L_13l,Language,Frontoparietal,0.19,0.16
+L_PCV-PALLIDUM_LEFT,Posterior_Multimodal,subcortex,-0.14,0.13
+R_7PC-L_43,Somatomotor,Cingulo-Opercular,0.15,0.16
+L_3a-L_s32,Somatomotor,Default,-0.16,0.15
